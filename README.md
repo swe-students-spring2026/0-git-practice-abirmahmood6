@@ -1,7 +1,8 @@
 # Git Practice Repository
 
 ## Interesting Article
-[AI in Software Development – IBM Think](https://www.ibm.com/blog/ai-in-software-development)
+[AI in Software Development – IBM Think](https://www.ibm.com/think/topics/ai-in-software-development)
+
 
 ## Why I Found This Article Interesting
 I found this article fascinating because it explains how artificial intelligence (AI) is transforming the entire software development lifecycle.  
